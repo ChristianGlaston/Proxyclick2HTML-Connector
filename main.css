@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap');
+
+body {
+  font-family: 'Work Sans', sans-serif;
+  width: 100%;
+
+}
+.visit.expected {
+  color: rgb(0,0,0);
+}
+.visit.checked-in {
+  color: hsl(110, 50%, 50%);
+}
+.visit.checked-out {
+  display: rgb(150,150,255);
+}
